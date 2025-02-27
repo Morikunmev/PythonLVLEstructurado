@@ -1,0 +1,60 @@
+Indice Programacion estructurada: concepto de funciones
+
+
+----------------------Concepto de funciones----------------------
+n1: presentacion
+n2: suma de dos valores dentro de una funcion en un ciclo for
+n3: obtener el cuadrado de un numero en una funcion, producto de x numeros en otra
+n4: encontrar el mayor y menor valor dentro de una funcion
+
+----------------------Funciones: Parametros----------------------
+n5: Llamada de funciones en los parametoss a travez del bloque principal
+n6: encontrar el mayor y menor de 3 numeros usando funciones
+n7: superficie y area de un cuadrado, calculos separados en funciones, funcion principal que llame a otras
+funciones
+n8: funciones que cuenta la cantidad de vocales que se le ingresa desde el bloque principal
+n9: ordernar 3 numeros de menor a mayor
+
+----------------------Funciones: Retorno de datos----------------------
+n10: entrada de parametro y retorno de datos tanto de la variable global, del print y la estructura condicional
+n11: encontrar el mayor valor usando parametros y retorno de datos, en las dos formas
+n12: retornar el caracter mas largo de 2 nombres
+n13: return de promedio de 3 valores
+n14:Ingresar el lado de un cuadrado, y retornar el resultado del perimetro en otra funcion
+n15: retorno de superficie de 2 cuadrados, condicional si tienen la misma, mayor o menor superficie
+n16: return de la cantidad de vocales
+
+----------------------Funciones: Parametros de tipo lista----------------------
+n17: sumarizacion de una lista, encontrar el mayor y el menor dentro de una funcion
+n18: cargar en el bloque principal 5 valores enteros en una lista, definir funciones para el menor y mayor de la lista
+n19: funcion que recibe una lista y un entero, calcula la multiplicacion de cada numero de la lista con el segundo entero
+n20: funcion que recibe una lista, encuentra el mayor y menor longitud
+n21: funcion que recibe una lista y retorna el producto de cada uno
+
+----------------------Funciones: Retorno de una lista----------------------
+n22: entrada de datos dentro de una funcion local, retorno de una lista, imprimir los que son mayores a 10
+n23: Una funcion carga por entrada 1 lista, en otra funcion encontramos el mayor y menor valor dentro
+de otra lista, retorna un dato tipo lista
+n24: entrada de 2 datos dentro de una lista (nombre,edad) imprimir los nombres de mayor edad (18),
+otra funcion que calcula el promedio
+n25: carga de sueldos en una lista, impresion de todos los sueldos, sueldo superior a 4000,
+retornar promedio de los sueldos, mostrar sueldos debajos del promedio
+[NUEVO] una funcion dentro de otra funcion asignandola a una variable
+n26: Carga de datos, precio mayor, consulta de precios menor al valor ingresado
+n27: cargar en una funcion lista con 10 enteros, 2 listas con enteros positivos y
+otro con enteros negativos
+
+----------------------Funciones: parametros con valor por defecto----------------------
+n28: parametro que recibe un string, otro parametro con valor por defecto,
+
+----------------------Funciones: llamada a la funcion con argumentos nombrados----------------------
+en general llamada de funciones con argumentos nombrados y uso de sep y end de la funcion incorporada o por defecto
+print
+
+----------------------Funciones: con cantidad variable de parametros----------------------
+n35: [NUEVO] Breve introduccion al concepto de las tuplas, con le agrega el * al ultimo parametro,
+y se transforma en una tupla
+N36: [NUEVO] Desempaquetado de una lista antecediendo el * si quieremos definirla en una
+parametro de la funcion
+n37: parametro que recibe un entero, y otro de parametro variable
+

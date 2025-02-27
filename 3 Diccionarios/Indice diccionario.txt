@@ -1,0 +1,39 @@
+INDICE Diccionarios
+
+-------------Estructura de datos tipo diccionario-------------
+n1: Impresion de una variable de tipo diccionario por medio de un bucle for en una funcion
+n2:Carga de datos para la clave y el valor de un diccionario, encontrar por medio de otra funcion
+los valores mayores a 100
+n3: cargar la clave (ingles) y el valor de esa clave (español), consultar por otra funcion la traduccion
+n4: cargar el numero de documento (clave) y el nombre de la persona (valor)
+consultarlo por medio de otra funcion
+
+-------------Diccionarios con valores de tipo listas, tuplas y diccionarios-------------
+n5: Carga datos en el diccionario, listado completo de productos, consulta de un producto por su clave,
+mostrar nombre, precio y stock
+Listado de todos los productos que tengan un stock con valor cero
+
+n6: Carga de datos en la agenda, listado completa agenda, consulta de una fecha
+n7: Lo mismo que el problema n6 solo que con alumnos y sus notas
+
+-------------Funciones: parametros mutables e inmutables-------------
+n8: los parametros pueden llamarse de cualquier forma, son mutalbes
+n9: Los parametros de tipo lista que los pasamos a la funcion se guardan, como por ejemplo ordenar una lista
+y llamar a una funcion para imprimirla, la lista quedaria ordenada
+n10: cargar nombre y numero de telefono, guardarlo en un diccionario, consultar y modificar el valor
+n11: cargar un diccionario anidado, imprimirlo, consultar, modificar y filtar solo las profesiones "analistas"
+
+-------------Porciones de listas, tuplas y strings-------------
+n12: guardar una variable en partes de una lista
+n13: definir una funcion de meses, y en el bloque principal consultar el numero de mes, la funcion ya creada te devuelve
+un listado de todos los meses que faltan
+n14:retornar los 3 primeros caracteres de una tupla por medio de un ciclo for
+n15: Retornar la mitad de una lista
+n16: Imprimir los 2 primeros caracteres, imprimir los 2 ultimos, imprimir todos menor el primero y ultimo
+
+-------------Indices negativos en listas, tuplas y cadena de caracteres-------------
+n17:verificar si un string es capicua
+n18:Cargar string, mostrar la cadena del final al principio utilizando subindices negativos
+n19:cargar una lista con 5 palabras, intercambiar la primera palabra con la ultima, imprimir la lista
+[NUEVO] LAS OPERACIONES QUE SE HACEN DE UN PARAMETRO QUEDAN GUARDADAS DENTRO DE LA FUNCION, PORQUE
+SON MUTABLES, SE PUEDE VOLVER A IMPRIMIR

@@ -1,0 +1,28 @@
+Problemas con tuplas:
+
+-----------------Estructura de datos tipo tupla-----------------
+--n1--: Desarrollar una funcion que solicite la carga del dia, mes y año y almacene dichos datos en una
+tupla que luego debe retornar.
+la segunda funcion a implementar debe recibir una tupla con la fecha y mostrarla por pantalla.
+
+--n2--: Definir una tupla con tres valores enteros. Convertir el contenido de la tupla a tipo lista.
+Modificar la lista y luego convertir la lista en tupla.
+Crear otra tupla a partir de tres variables independiente que almacenan el dia, mes y año (empaquetamiento), luego
+desempaquetar la tupla a otras tres variables independientes.
+
+--n3--: Confeccionar un programa con las siguientes funciones:
+1) Cargar una lista de 5 enteros.
+2) Retornar el mayor y menor valor de la lista mediante una tupla
+Desempaquetar la tupla en el bloque principal y mostrar el mayor y menor.
+
+--n4--: Confeccionar un programa con las siguientes funciones:
+1) Cargar el nombre de un empleado y su sueldo. Retornar una tupla con dichos valores.
+2) Una funcion que reciba como parametro dos tuplas con los nombres y sueldos de empleados y muestre el nombre
+del empleado con sueldo mayor.
+En el bloque principal del programa llamar dos veces a la funcion de carga y seguidamente llamar a la funcion
+que muestra el nombre de empleado con sueldo mayor.
+#Bloque principal
+
+empleado1 = cargar_empleado()
+empleado2 = cargar_empleado()
+mayor_sueldo(empleado1,empleado2)

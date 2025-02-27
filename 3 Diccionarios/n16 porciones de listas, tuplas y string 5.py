@@ -1,0 +1,5 @@
+cadena = input("Ingrese una cadena de caracteres: ")
+print("Primeros dos caracteres")
+print(cadena[:2])
+print(cadena[len(cadena)-2:])
+print(cadena[1:len(cadena)-1])

@@ -1,0 +1,16 @@
+INDICE:
+
+----------[Biblioteca Estandar de Python]----------
+n1-n4: uso del modulo impor random, para usando el randint y shuffle
+
+----------[Importar algunas funcionalidades de un modulo de la biblioteca estandar de Python]----------
+n5: sacar el cubo de un valor, y la raiz cuadrada de un valor, usando funcionalidades directas de la biblioteca
+n6: Lo mismo que el ejercicio n5, pero usando solo import math
+
+----------[Definicion de alias para una funcionalidad]----------
+n7: uso de sqrt y pow con un alias
+n8: calculo del factorial
+
+----------[Aplicaciones propias con varios modulos]----------
+n9: [NUEVO] Cargar, imprimir mayor, imprimir suma
+n10: 

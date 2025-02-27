@@ -1,0 +1,34 @@
+INDICE: Tuplas
+
+---------------------Estructura de datos tipo tupla---------------------
+n1: definicion de varias tuplas e impresion
+n2: Carga de fecha dentro de una funcion, retorno en formato tupla, conversion de lista a tupla y viceversa
+
+n3: [NUEVO]. 2 FORMAS DE MODIFICAR VALORES A UNA TUPLA:
+1. convertir la tupla en lista e ir agregando valores
+2. [desempaquetar] la tupla, para modificar valores o agregar nuevas variables, para que estas sean
+[empaquetadas] nuevamente dentro de la tupla.
+
+n4: cargar dentro de una funcion una lista de valores, en otra funcion sacar el maximo y minimo,
+retornarla como tupla. bloque principal desempaquetar la tupla
+
+n5: Carga de dos variables de tipo tupla (nombre y sueldo), encontrar el mayor sueldo
+
+---------------------Listas y tuplas anidadas---------------------
+n6: definicion de una lista anidada, y definicion de una tupla anidada
+n7: Carga de valores de tipo tupla dentro de una lista, imprimir y mostrar por pantalla cual es el menor
+n8: ingreso del nombre del empleado en forma lista, y sus ultimos 3 sueldos en forma tupla, imprimir las sumas
+de los 3 sueldos y el mayor a 10000
+n9: Ingreso de datos tipo tupla anidada, con cantidad variable de tipo lista anidada que contiene una tupla
+sumar esta ultima en el indice de posicion 1
+
+---------------------Variantes de la estructura repetitiva for para recorrer tuplas y listas---------------------
+n10: presentacion de la variante de for, suma, mayor de una lista
+n11: almacenar en una lista 1 tupla que contiene el nombre del empleado y el sueldo, en otra funcion
+imprimir el sueldo mayor, y en otra funcion imprimir el menor a 10000
+[NUEVO]la tupla la podemnos descomponer en dos variables en la estructura for
+n12: cargar una lista con palabras en una funcion. Otra funcion que tiene que mostrar todas las palabras
+de la lista que tienen mas de 5 caracteres.
+n13: carga de valores del producto y precio en formato tupla, imprimir los precios comprendidos entre
+10 y 15
+[NUEVO] Forma de encontrar valores entre un rango con la descomposicion de una lista anidada en un bucle for
